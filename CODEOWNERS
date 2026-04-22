@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ngsayene-creator
+/src/backend/database.py      @ngsayene-creator
+/src/backend/routers/auth.py  @ngsayene-creator
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ngsayene-creator
